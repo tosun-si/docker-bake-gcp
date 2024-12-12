@@ -1,0 +1,17 @@
+/.git
+/.github
+/.dockerignore
+/.gitignore
+/.gcloudignore
+/.envrc
+/app/Dockerfile
+/infra/Dockerfile
+/*.md
+/.idea
+*.iml
+*.egg-info
+__pycache__
+.DS_Store
+/build-and-publish-images-artifact-registry.yaml
+/docker-bake.hcl
+/vars.hcl
